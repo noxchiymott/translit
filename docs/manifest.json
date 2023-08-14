@@ -1,15 +1,15 @@
 {
   "entry:src/app.imba?web": {
-    "url": "/assets\\app.6YPNYT63.js",
-    "path": "C:\\_work\\dev\\.projects\\NXMottCyrr2Lat\\app\\dist\\assets\\app.6YPNYT63.js"
+    "url": "/assets\\app.LHVXLK3A.js",
+    "path": "C:\\_work\\dev\\.projects\\NXMottCyrr2Lat\\app\\dist\\assets\\app.LHVXLK3A.js"
   },
   "*?css": {
-    "url": "/assets\\index.JOWETAKP.css",
-    "path": "C:\\_work\\dev\\.projects\\NXMottCyrr2Lat\\app\\dist\\assets\\index.JOWETAKP.css"
+    "url": "/assets\\index.ZKGWXVNA.css",
+    "path": "C:\\_work\\dev\\.projects\\NXMottCyrr2Lat\\app\\dist\\assets\\index.ZKGWXVNA.css"
   },
   "/index.html": {},
-  "/assets\\app.6YPNYT63.js": {},
-  "/assets\\app.6XY5A7KR.css": {},
-  "/assets\\index.JOWETAKP.css": {},
+  "/assets\\app.LHVXLK3A.js": {},
+  "/assets\\app.CKWOFIRD.css": {},
+  "/assets\\index.ZKGWXVNA.css": {},
   "main": "index.html"
 }
