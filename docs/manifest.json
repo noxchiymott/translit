@@ -1,14 +1,14 @@
 {
   "entry:src/app.imba?web": {
-    "url": "/assets\\app.4U2OWYJW.js",
-    "path": "C:\\_work\\dev\\.projects\\NXMottCyrr2Lat\\app\\dist\\assets\\app.4U2OWYJW.js"
+    "url": "/assets\\app.ZZ46DA45.js",
+    "path": "C:\\_work\\dev\\.projects\\NXMottCyrr2Lat\\app\\dist\\assets\\app.ZZ46DA45.js"
   },
   "*?css": {
     "url": "/assets\\index.JATOXXN4.css",
     "path": "C:\\_work\\dev\\.projects\\NXMottCyrr2Lat\\app\\dist\\assets\\index.JATOXXN4.css"
   },
   "/index.html": {},
-  "/assets\\app.4U2OWYJW.js": {},
+  "/assets\\app.ZZ46DA45.js": {},
   "/assets\\app.6FHZ2ANU.css": {},
   "/assets\\index.JATOXXN4.css": {},
   "main": "index.html"
