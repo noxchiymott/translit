@@ -1,5 +1,6 @@
 {
   "entry:src/app.imba?web": {
+<<<<<<< HEAD
     "url": "/assets\\app.7NO25KNC.js",
     "path": "C:\\_work\\dev\\.projects\\NXMottCyrr2Lat\\app\\dist\\assets\\app.7NO25KNC.js"
   },
@@ -11,5 +12,18 @@
   "/assets\\app.7NO25KNC.js": {},
   "/assets\\app.VH2NHYQT.css": {},
   "/assets\\index.45CLH7LI.css": {},
+=======
+    "url": "/assets\\app.UTLSFWTI.js",
+    "path": "C:\\_work\\dev\\.projects\\NXMottCyrr2Lat\\app\\dist\\assets\\app.UTLSFWTI.js"
+  },
+  "*?css": {
+    "url": "/assets\\index.KHA1BZLN.css",
+    "path": "C:\\_work\\dev\\.projects\\NXMottCyrr2Lat\\app\\dist\\assets\\index.KHA1BZLN.css"
+  },
+  "/index.html": {},
+  "/assets\\app.UTLSFWTI.js": {},
+  "/assets\\app.YHINUZ4Q.css": {},
+  "/assets\\index.KHA1BZLN.css": {},
+>>>>>>> master
   "main": "index.html"
 }
