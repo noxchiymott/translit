@@ -1,29 +1,15 @@
 {
   "entry:src/app.imba?web": {
-<<<<<<< HEAD
-    "url": "/assets\\app.7NO25KNC.js",
-    "path": "C:\\_work\\dev\\.projects\\NXMottCyrr2Lat\\app\\dist\\assets\\app.7NO25KNC.js"
+    "url": "/assets\\app.JDXODR53.js",
+    "path": "C:\\_work\\dev\\.projects\\NXMottCyrr2Lat\\app\\dist\\assets\\app.JDXODR53.js"
   },
   "*?css": {
-    "url": "/assets\\index.45CLH7LI.css",
-    "path": "C:\\_work\\dev\\.projects\\NXMottCyrr2Lat\\app\\dist\\assets\\index.45CLH7LI.css"
+    "url": "/assets\\index.TYLU2T2L.css",
+    "path": "C:\\_work\\dev\\.projects\\NXMottCyrr2Lat\\app\\dist\\assets\\index.TYLU2T2L.css"
   },
   "/index.html": {},
-  "/assets\\app.7NO25KNC.js": {},
-  "/assets\\app.VH2NHYQT.css": {},
-  "/assets\\index.45CLH7LI.css": {},
-=======
-    "url": "/assets\\app.UTLSFWTI.js",
-    "path": "C:\\_work\\dev\\.projects\\NXMottCyrr2Lat\\app\\dist\\assets\\app.UTLSFWTI.js"
-  },
-  "*?css": {
-    "url": "/assets\\index.KHA1BZLN.css",
-    "path": "C:\\_work\\dev\\.projects\\NXMottCyrr2Lat\\app\\dist\\assets\\index.KHA1BZLN.css"
-  },
-  "/index.html": {},
-  "/assets\\app.UTLSFWTI.js": {},
-  "/assets\\app.YHINUZ4Q.css": {},
-  "/assets\\index.KHA1BZLN.css": {},
->>>>>>> master
+  "/assets\\app.JDXODR53.js": {},
+  "/assets\\app.7BILRLTT.css": {},
+  "/assets\\index.TYLU2T2L.css": {},
   "main": "index.html"
 }
